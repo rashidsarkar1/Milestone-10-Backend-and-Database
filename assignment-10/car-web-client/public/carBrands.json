@@ -1,0 +1,28 @@
+{
+  "carBrands": [
+    {
+      "brandName": "Toyota",
+      "brandImage": "https://i.ibb.co/QvKPG32/vnk9mw81.jpg"
+    },
+    {
+      "brandName": "Ford",
+      "brandImage": "https://i.ibb.co/25Hc1Q1/0x6q5r4c.png"
+    },
+    {
+      "brandName": "Honda",
+      "brandImage": "https://i.ibb.co/Nm3hHGn/22y0lvu3.png"
+    },
+    {
+      "brandName": "Chevrolet",
+      "brandImage": "https://i.ibb.co/dmfy0nN/dw288ano.png"
+    },
+    {
+      "brandName": "Volkswagen",
+      "brandImage": "https://i.ibb.co/Kz5WmwJ/hf44y8on.png"
+    },
+    {
+      "brandName": "Nissan",
+      "brandImage": "https://i.ibb.co/tbcv11V/b8g4sgz0.png"
+    }
+  ]
+}
